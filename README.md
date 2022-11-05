@@ -21,3 +21,10 @@
 - Capital letter means can be accessed from outside package (like public)
 - Small letter means can only be accessed from same package (like private)
 
+3. Setting GOPATH 
+
+- at linux/macos config it at .bashrc or .zshrc
+
+```
+export GOPATH="/Users/Username/folder-for-golang-dev"
+```
